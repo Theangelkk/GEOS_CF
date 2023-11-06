@@ -19,7 +19,7 @@ import ee
 
 warnings.filterwarnings("ignore")
 
-# Path of EEA_data
+# Path of GEOS_CF_data
 path_main_dir_GEOS_CF_data = os.environ['GEOS_CF_data']
 
 if path_main_dir_GEOS_CF_data == "":
